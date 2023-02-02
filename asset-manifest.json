@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tgu_test/static/css/main.c3e4631f.css",
+    "main.js": "/tgu_test/static/js/main.8ac86c81.js",
+    "index.html": "/tgu_test/index.html",
+    "main.c3e4631f.css.map": "/tgu_test/static/css/main.c3e4631f.css.map",
+    "main.8ac86c81.js.map": "/tgu_test/static/js/main.8ac86c81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e4631f.css",
+    "static/js/main.8ac86c81.js"
+  ]
+}
