@@ -1,0 +1,5 @@
+export { UserItem } from './UserItem/models/UserItem'
+export { AddUserPopUp } from './AddUserPopUp/models/AddUserPopUp'
+export { DeleteUsersPopUp } from './DeleteUsersPopUp/models/DeleteUsersPopUp'
+export { SelectAvatarPopUp } from './SelectAvatarPopUp/models/SelectAvatarPopUp'
+export { GridLayout } from './GridLayout/models/GridLayout'

@@ -1,0 +1,1 @@
+export { AvatarItem } from '../entities/AvatarItem/models/AvatarItem'
